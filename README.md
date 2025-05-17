@@ -1,6 +1,17 @@
 # 🛍️ Bazaar Bridge
 
 **Bazaar Bridge** is a community-driven digital platform that connects small-scale businesses, women entrepreneurs, and farmers directly with consumers. Our mission is to eliminate middlemen, ensure fair prices, and empower local entrepreneurs through a supportive and educational ecosystem.
+![image](https://github.com/user-attachments/assets/3311e9dd-0b71-402d-9b34-9e3a63dd7b83)
+
+![image](https://github.com/user-attachments/assets/96485cff-c793-4182-9b67-5ba4832579f1)
+
+
+![image](https://github.com/user-attachments/assets/9b93de33-f97d-4f2d-8eac-3fd228587f82)
+
+
+![image](https://github.com/user-attachments/assets/e7f160df-3ddb-43c4-b62b-129a6ee32ee4)
+
+
 
 ## 🌟 Key Features
 
